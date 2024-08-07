@@ -3,24 +3,28 @@
         "id": 1,
         "title": "Photographic",
         "desc": "Lorem ipsum odor amet, consectetuer adipiscing elit. Tincidunt nec mollis velit, faucibus quis magna. Ante risus blandit ex nisi lectus ad vehicula. Dictum velit porttitor maximus varius eget proin",
-        "image": "free-images1.jpg"
+        "image": "free-images1.jpg",
+        "remove": "Remove"
     },
     {
         "id": 2,
         "title": "Photographic 2",
         "desc": "Lorem ipsum odor amet, consectetuer adipiscing elit. Tincidunt nec mollis velit, faucibus quis magna. Ante risus blandit ex nisi lectus ad vehicula. Dictum velit porttitor maximus varius eget proin",
-        "image": "free-images2.jpg"
+        "image": "free-images2.jpg",
+        "remove": "Remove"
     },
     {
         "id": 3,
         "title": "Photographic 3",
         "desc": "Lorem ipsum odor amet, consectetuer adipiscing elit. Tincidunt nec mollis velit, faucibus quis magna. Ante risus blandit ex nisi lectus ad vehicula. Dictum velit porttitor maximus varius eget proin",
-        "image": "free-images3.jpg"
+        "image": "free-images3.jpg",
+        "remove": "Remove"
     },
     {
         "id": 4,
         "title": "Photographic 4",
         "desc": "Lorem ipsum odor amet, consectetuer adipiscing elit. Tincidunt nec mollis velit, faucibus quis magna. Ante risus blandit ex nisi lectus ad vehicula. Dictum velit porttitor maximus varius eget proin",
-        "image": "free-images4.jpg"
+        "image": "free-images4.jpg",
+        "remove": "Remove"
     }
 ]
